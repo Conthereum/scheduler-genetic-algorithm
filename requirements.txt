@@ -1,0 +1,3 @@
+ortools~=9.11.4210
+numpy>=1.21.0
+pandas
